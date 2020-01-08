@@ -1,0 +1,3 @@
+post-build=archos/MTKAC70PLV3/ac70plv3:5.0.1/LRX22C/20150720.065346:user/release-keys
+post-timestamp=1437375226
+pre-device=ac70plv3

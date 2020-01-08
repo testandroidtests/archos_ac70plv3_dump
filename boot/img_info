@@ -1,0 +1,15 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+kernel_size=3732800
+ramdisk_size=791907
+base_addr=0x80000000
+kernel_offset=0x00008000
+ramdisk_offset=0x04000000
+tags_offset=0x00000100
+cmd_line=''
+board="1437141746"
+ramdisk has a MTK header:
+	partition_size=791395
+	partition_name=ROOTFS
+format=gzip
